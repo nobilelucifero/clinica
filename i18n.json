@@ -1,0 +1,48 @@
+{
+  "countries": [
+    {
+      "id": "gb",
+      "country_labels": {
+        "gb": "United Kingdom 🇬🇧",
+        "de": "Großbritannien 🇬🇧",
+        "it": "Regno Unito 🇬🇧"
+      },
+      "language_labels": {
+        "gb": "English",
+        "de": "Englisch",
+        "it": "Inglese"
+      }
+    },
+    {
+      "id": "de",
+      "country_labels": {
+        "gb": "Germany 🇩🇪",
+        "de": "Deutschland 🇩🇪",
+        "it": "Germania 🇩🇪"
+      },
+      "language_labels": {
+        "gb": "German",
+        "de": "Deutsch",
+        "it": "Tedesco"
+      }
+    },
+    {
+      "id": "it",
+      "country_labels": {
+        "gb": "Italy 🇮🇹",
+        "de": "Italien 🇮🇹",
+        "it": "Italia 🇮🇹"
+      },
+      "language_labels": {
+        "gb": "Italian",
+        "de": "Italienisch",
+        "it": "Italiano"
+      }
+    }
+  ],
+  "locales": ["gb", "de", "it"],
+  "defaultLocale": "gb",
+  "pages": {
+    "*": ["common"]
+  }
+}

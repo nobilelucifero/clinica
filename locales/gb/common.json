@@ -1,0 +1,11 @@
+{
+  "variable-example": "Using a variable {{count}}",
+  "title": "Forget clunky admins, ",
+  "title-cta": "focus on your patients.",
+  "lead": "Manage patient bookings and more, easily.",
+  "waitlist-cta": "Beta launching soon.",
+  "waitlist": "Interested in learning more?",
+  "waitlist-desc": "Answer the short survey to be one of the first to hear about us.",
+  "waitlist-input-placeholder": "Your email address",
+  "waitlist-button-join": "Join the waitlist"
+}
