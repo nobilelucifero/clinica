@@ -1,4 +1,9 @@
 {
+  "locales": ["gb", "de", "it"],
+  "defaultLocale": "gb",
+  "pages": {
+    "*": ["common"]
+  },
   "countries": [
     {
       "id": "gb",
@@ -39,10 +44,5 @@
         "it": "Italiano"
       }
     }
-  ],
-  "locales": ["gb", "de", "it"],
-  "defaultLocale": "gb",
-  "pages": {
-    "*": ["common"]
-  }
+  ]
 }
